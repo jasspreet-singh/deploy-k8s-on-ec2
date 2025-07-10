@@ -4,6 +4,6 @@ This project automates the deployment of a production-ready Kubernetes cluster o
 
 ## 🔧 Features
 
-- Terraform Scripts to Provision EC2 instances for control plane and worker nodes
+- OpenTofu Scripts to Provision EC2 instances for control plane and worker nodes
 - Configure networking, kubelet, kube-proxy, and container runtime `containerd`
 - Deploy Kubernetes with k0s
